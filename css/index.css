@@ -1,0 +1,43 @@
+html {
+    background-color: #353535;
+    width: 95%;
+    margin: auto;
+}
+
+header {
+    background-color: #353535;
+}
+
+.my-bg-dark {
+    background-color: #212121;
+}
+
+.my-text-color {
+    color: #afa9ab;
+}
+
+.custom-container {
+    width: 960px;
+    margin: auto;
+}
+
+.top-block {
+    height: 360px;
+    color: white;
+}
+
+.inner-text {
+    color: #cbcbcb;
+    background-color: #ececec;
+}
+
+.my-card {
+    width: 215px;
+    height: 315px;
+    color: white
+}
+
+footer {
+    background-color: #212121;
+    color: white;
+}
